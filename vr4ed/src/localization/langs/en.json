@@ -1,0 +1,25 @@
+{
+  "login": "Login",
+  "register": "Register",
+  "email": "Email",
+  "password": "Password",
+  "sendEmailForPassMessage": "Check your inbox for further instructions",
+  "typeEmailForPassMessage": "Enter your email address for new password",
+  "wrongField": "Are you sure the information is correct",
+  "dontRememberPassword": "You don't remember password ?",
+  "selectCategory": "Select categories what you want",
+  "typeEmailAdress": "Enter your email address",
+  "typePassword": "Enter your Password",
+  "typeValidEmail": "Enter valid email and password ",
+  "errorMessageWhileCreatingUser": "Change your email address or password and try again or check your internet connection",
+  "categoryTitle": "Welcome , Select a category",
+  "videos": "Videos",
+  "quit": "Quit",
+  "vr": {
+    "vrSchool":"VR School",
+    "space":"Space",
+    "nature":"Nature",
+    "fun":"Fun"
+  },
+  "cardboardWarn":"Please insert the cardboard before starting the video. It will start in 10 seconds"
+}

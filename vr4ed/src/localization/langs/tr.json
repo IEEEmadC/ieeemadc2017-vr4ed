@@ -1,0 +1,25 @@
+{
+  "login": "Giriş yap",
+  "register": "Kayıt ol",
+  "email": "Mail",
+  "password": "Şifre",
+  "sendEmailForPassMessage": "Mail kutunuza bakın",
+  "typeEmailForPassMessage": "Şifre mi unuttum maili için mail adresinizi giriniz",
+  "wrongField": "bilgileri doğru girdiğine emin misin",
+  "dontRememberPassword": "Şifreni mi unuttun?",
+  "selectCategory": "İstediğiniz kategorileri açın",
+  "typeEmailAdress": "Mail adresinizi giriniz",
+  "typePassword": "Şifrenizi giriniz",
+  "typeValidEmail": "geçerli mail ve şifre giriniz",
+  "errorMessageWhileCreatingUser": "Bir hata oldu,Farklı bir email dene kardeşim",
+  "categoryTitle": "Hoşgeldin, bir kategori seçer misin",
+  "videos": "videolar",
+  "quit": "Çıkış yap",
+  "vr": {
+    "vrSchool":"VR Okulu",
+    "space":"Uzay",
+    "nature":"Doğa",
+    "fun":"Eğlence"
+  },
+  "cardboardWarn":"Video'ya başlamadan önce lütfen cardboard'ı takın. 10 Saniye içinde başlıyacak"
+}
